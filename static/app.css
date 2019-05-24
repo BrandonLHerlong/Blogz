@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: rgb(32, 14, 199);
+}
+
+h2 {
+        text-align: left;
+        color: rgb(14, 140, 199);
+        
+}
+
+form {
+    background-color: lightgray;
+    margin: auto;
+    position: relative;
+}
